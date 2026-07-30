@@ -1,7 +1,3 @@
-# Customer-Complaint-Management-System
-an AI-powered Customer Complaint Management System for the pharmaceutical manufacturing industry
-
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
